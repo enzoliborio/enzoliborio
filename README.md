@@ -1,5 +1,8 @@
 <h1 align="center">Olá 👋, sou Enzo Libório</h1>
-<h3 align="center">Graduando do quarto período em Engenharia de Computação pela Universidade Federal de Sergipe (UFS), com ênfase em áreas como programação, matemática computacional e desenvolvimento de software. Interessa-se por temas como automação, desenvolvimento de sistemas e análise de algoritmos, buscando integrar conhecimentos matemáticos e computacionais para soluções tecnológicas inovadoras.</h3>
+
+## 📖 Sobre mim
+<br>🎓 Graduando do quarto período em **Engenharia de Computação** pela Universidade Federal de Sergipe (UFS), com ênfase em áreas como programação, matemática computacional e desenvolvimento de software. Interessa-se por temas como automação, desenvolvimento de sistemas e análise de algoritmos, buscando integrar conhecimentos matemáticos e computacionais para soluções tecnológicas inovadoras.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
