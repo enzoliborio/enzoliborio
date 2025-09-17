@@ -1,12 +1,4 @@
-<h1 align="center">Olá mundo 🌎</h1>
-
-<p align="left">
-  <a href="https://instagram.com/quantumbyte.dev" target="_blank">
-    <img src="imagens/banner_EnzoLiborio.png" style="border-radius: 15px;" />
-  </a>
-</p>
-
-
+<h1 align="center">Olá mundo 🌎, sou Enzo Libório</h1>
 
 ## 📖 Sobre mim
 <br>🎓 Graduando do quarto período em **Engenharia de Computação** pela Universidade Federal de Sergipe (UFS), com ênfase em áreas como programação, matemática computacional e desenvolvimento de software. Interessa-se por temas como automação, desenvolvimento de sistemas e análise de algoritmos, buscando integrar conhecimentos matemáticos e computacionais para soluções tecnológicas inovadoras.
