@@ -1,12 +1,62 @@
-<h1 align="center">Olá 👋, sou Enzo Libório</h1>
+<h1 align="center">Olá mundo 🌎, sou Enzo Libório!</h1>
 
 ## 📖 Sobre mim
 <br>🎓 Graduando do quarto período em **Engenharia de Computação** pela Universidade Federal de Sergipe (UFS), com ênfase em áreas como programação, matemática computacional e desenvolvimento de software. Interessa-se por temas como automação, desenvolvimento de sistemas e análise de algoritmos, buscando integrar conhecimentos matemáticos e computacionais para soluções tecnológicas inovadoras.
 
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Tecnologias e Ferramentas
+
+### 🌐 Desenvolvimento web
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,cloudflare&perline=6" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+### 👨🏻‍💻 Desenvolvimento de software
+<p align="left">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=c,java,javascript&perline=6" />
+  </a>
+</p>
+
+### 👨🏻‍💻 Desenvolvimento de Hardware
+<p align="left">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=arduino&perline=6" />
+  </a>
+</p>
+
+### 🔧 Ferramentas
+<p align="left">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=latex,vscode,replit,codepen,idea,webstorm,clion&perline=10" />
+  </a>
+</p>
+
+https://github.com/anuraghazra/github-readme-stats
+## 📊 Minhas Estatísticas no GitHub
+<p align="center">
+  <a href="">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoliborio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoliborio&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</p>
+
+## 📱 Instagram da QuantumByte.dev
+Um perfil dedicado à minhas atividades durante a universidade: programação, matemática
+<p align="left">
+  <a href="https:/instagram.com/quantumbyte.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=i"/>
+  </a>
+</p>
+
+## 📞 Contato (clique no ícone):
+<p align="left">
+  <a href="https://github.com/enzoliborio" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  <a href="https://linkedin.com/in/enzo-libório-158396385" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
