@@ -53,8 +53,7 @@
 
 
 ## 📱 Instagram da QuantumByte.dev
-Um perfil dedicado à minhas atividades durante a universidade!
-Clique na imagem 👇🏼
+Um perfil dedicado à minhas atividades durante a universidade! [Clique aqui](https://instagram.com/quantumbyte.dev)
 <div style="height: 100px;">
   <a href="https://instagram.com/quantumbyte.dev" target="_blank">
     <img src="imagens/banner_QuantumByte.png" alt="Link para o Instagram" style="width: 100%; height: 100%; object-fit: cover; border-radius: 100%;" />
@@ -65,7 +64,8 @@ Clique na imagem 👇🏼
 
 
 ## 📞 Contato (clique no ícone):
-<p align="left">
+<!--
+<p align="left"> 
   <a href="https://github.com/enzoliborio" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin-right: 10px;"/>
   </a>
@@ -78,3 +78,8 @@ Clique na imagem 👇🏼
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="margin-right: 10px;"/>
   </a>
 </p>
+-->
+
+
+- E-mail: enzoliborio@academico.ufs.br
+- Instagram: [@quantumbyte.dev](https://instagram.com/quantumbyte.dev)
