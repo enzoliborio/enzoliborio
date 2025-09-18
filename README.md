@@ -1,14 +1,17 @@
 <h1 align="center">Olá mundo 🌎, sou Enzo Libório</h1>
 
 ## 📖 Sobre mim
-<br>🎓 Graduando do quarto período em **Engenharia de Computação** pela Universidade Federal de Sergipe (UFS), com ênfase em áreas como programação, matemática computacional e desenvolvimento de software. Interessa-se por temas como automação, desenvolvimento de sistemas e análise de algoritmos, buscando integrar conhecimentos matemáticos e computacionais para soluções tecnológicas inovadoras.
-
-
+<br>🎓 Graduando do quarto período em **Engenharia de Computação** pela [Universidade Federal de Sergipe (UFS)](https://www.ufs.br/), com ênfase em áreas como programação, matemática computacional e desenvolvimento de software. Interessa-se por temas como automação, desenvolvimento de sistemas e análise de algoritmos, buscando integrar conhecimentos matemáticos e computacionais para soluções tecnológicas inovadoras.
 
 
 
 ## 🛠️ Tecnologias e Ferramentas
 
+| 🌐 Desenvolvimento web | 👨🏻‍💻 Desenvolvimento de software | 👨🏻‍💻 Desenvolvimento de Hardware | 🔧 Ferramentas |
+| :---: | --- | --- | --- |
+| <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,js,css,cloudflare&perline=2" /> </a> </p> | <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=c,java,javascript&perline=6" /> </a> </p> | <p align="center"><a href=""><img src="https://skillicons.dev/icons?i=arduino&perline=6" /></a></p> | <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=latex,vscode,replit,codepen,idea,webstorm,clion&perline=3" /> </a></p>
+
+<!--
 ### 🌐 Desenvolvimento web
 <p align="left">
   <a href="https://skillicons.dev">
@@ -36,11 +39,11 @@
     <img src="https://skillicons.dev/icons?i=latex,vscode,replit,codepen,idea,webstorm,clion&perline=10" />
   </a>
 </p>
+-->
 
 
 
-
-
+<!--
 ## 📊 Minhas Estatísticas no GitHub
 <p align="center">
   <a href="">
@@ -48,22 +51,22 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoliborio&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
-
+-->
 
 
 
 ## 📱 Instagram da QuantumByte.dev
 Um perfil dedicado à minhas atividades durante a universidade! [Clique aqui](https://instagram.com/quantumbyte.dev)
-<div style="height: 100px;">
+<p align="left" >
   <a href="https://instagram.com/quantumbyte.dev" target="_blank">
-    <img src="imagens/banner_QuantumByte.png" alt="Link para o Instagram" style="width: 100%; height: 100%; object-fit: cover; border-radius: 100%;" />
+    <img src="imagens/banner_QuantumByte.png" alt="Link para o Instagram" style="width: 50%; object-fit: cover; border-radius: 100%;" />
   </a>
-</div>
+</p>
 
 
 
 
-## 📞 Contato (clique no ícone):
+## 📞 Contato:
 <!--
 <p align="left"> 
   <a href="https://github.com/enzoliborio" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; margin-right: 10px;">
@@ -79,7 +82,6 @@ Um perfil dedicado à minhas atividades durante a universidade! [Clique aqui](ht
   </a>
 </p>
 -->
-
 
 - E-mail: enzoliborio@academico.ufs.br
 - Instagram: [@quantumbyte.dev](https://instagram.com/quantumbyte.dev)
