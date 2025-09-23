@@ -85,3 +85,4 @@ Um perfil dedicado à minhas atividades durante a universidade! [Clique aqui](ht
 
 - E-mail: enzoliborio@academico.ufs.br
 - Instagram: [@quantumbyte.dev](https://instagram.com/quantumbyte.dev)
+- [Currículo Lattes](http://lattes.cnpq.br/6716627847053455)
